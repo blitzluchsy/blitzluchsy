@@ -6,4 +6,4 @@ Working for Sapphire<br>Always testing code in production 😎
 # Stats:
 ![blitzluchsy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=blitzluchsy&theme=dark&hide_border=false)<br>
 ![blitzluchsy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blitzluchsy&theme=dark&show_icons=true&hide_border=false&layout=compact)<br>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=false)
