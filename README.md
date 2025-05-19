@@ -7,9 +7,7 @@ Working for Sapphire<br>Always testing code in production 😎
 ![](https://github-readme-stats.vercel.app/api?username=blitzluchsy&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=blitzluchsy&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=blitzluchsy&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### Quote of the day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### What I have mostely worked on
 ![](https://github-contributor-stats.vercel.app/api?username=blitzluchsy&limit=5&theme=radical&combine_all_yearly_contributions=true)
+### Quote of the day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
